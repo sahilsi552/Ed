@@ -56,7 +56,7 @@
 - Install pip by :
 `sudo pip3 install -U pip`
 - Clone the repository by :
-`git clone https://github.com/Noob-Mukesh/MukeshRobot && cd MukeshRobot`
+`git clone https://github.com/sahilsi552/Ed && cd Ed`
 - Install/Upgrade setuptools by :
 `pip3 install --upgrade pip setuptools`
 - Install requirements by :
